@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@devexpress/dx-react-core": "^1.10.1",
+    "@devexpress/dx-react-scheduler": "^1.10.1",
+    "@devexpress/dx-react-scheduler-material-ui": "^1.10.1",
+    "@syncfusion/ej2-react-schedule": "^16.4.54",
+    "bootstrap": "^4.3.1",
+    "is-regexp": "^2.0.0",
+    "prop-types": "^15.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-materialize": "^2.6.0",
+    "react-scripts": "2.1.5",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
